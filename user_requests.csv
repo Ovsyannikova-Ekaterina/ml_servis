@@ -1,0 +1,951 @@
+content|competent|priority
+i bought a product, could I modify my fucking purchase?|change_order|high_priority
+ask an agent where to notify fucking problems paying, please|payment_issue|medium_priority
+could u ask an agent how to notify a fucking issue making a payment, please?|payment_issue|high_priority
+the event was cancelled and i want to obtain a fucking reimbursement, please|get_refund|standard_priority
+please, could u show me the fucking phone number of client service?|contact_customer_service|high_priority
+can you tell me how to track my fucking sdhipment?|track_order|medium_priority
+please, ask an agent to inform of a fucking issue with my payment|payment_issue|medium_priority
+please, ask an agent where i could inform of fucking problems making a payment|payment_issue|high_priority
+I want a fuckimg user account and I'd like to open one|create_account|standard_priority
+i need a fucking reimbursement, can i request one, please?|get_refund|high_priority
+could u ask an agent where i can update my fucking shipping address?|change_shipping_address|high_priority
+ask an agent how to report fucking problems paying|payment_issue|medium_priority
+please, I wanna know where I can change my fucking order|change_order|standard_priority
+polease, i want to know about modifying my fucking order|change_order|high_priority
+i wanna change my fucking order, could you tell me how I can do it, please?|change_order|high_priority
+I've got no fucking user account, can you open one?|create_account|standard_priority
+how can I solve fucking payment issues?|payment_issue|medium_priority
+my fucking profile's beewn hacked and I would like to get it back|recover_password|standard_priority
+I want to know the fucking status of my reimbursement and I would like to track it|track_refund|standard_priority
+i wanna view the fucking options for delivery, what can i do, please?|delivery_options|high_priority
+tell me if I could register several fucking profiles with the same email address, please|create_account|medium_priority
+i need information and id like to speak with fucking client service|contact_customer_service|high_priority
+ask an agent if I could see the fuckig cancdllation fee|check_cancellation_fee|medium_priority
+i wanna request some fucking bill , can you give me some information?, please|get_invoice|high_priority
+can you ask an agent how I can inform of fucking problems with my payment, please?|payment_issue|medium_priority
+could u ask an agent how to report fucking problems paying?|payment_issue|high_priority
+I do not understand you, help me contact a fucking person, please|contact_human_agent|standard_priority
+ask an agent if I can reset my fucking password|recover_password|medium_priority
+can u ask an agent how i can see their fucking refund policy, please?|check_refund_policy|high_priority
+please, ask an agent where to report fucking issues paying|payment_issue|medium_priority
+do you mind asking an agent where I can see a fucking invoice, please?|get_invoice|standard_priority
+please , ask an agent where to notify fucking issues with my payment|payment_issue|medium_priority
+i want a fucking user account, how can i create one?|create_account|high_priority
+please, could you ask an agent for information about their fucking reimbursement policy?|check_refund_policy|standard_priority
+you ar not helping , could you contact a fucking human agent?|contact_human_agent|high_priority
+can u ask an agent if i can notify a fucking problem paying, please?|payment_issue|high_priority
+please, show me the fucking email address to contact customer support|contact_customer_service|medium_priority
+I'd like to inform of fucking problems paying|payment_issue|medium_priority
+tell me if I can get a fucking bill|get_invoice|standard_priority
+the game was postponed and I'd like to get a fucking refund, please|get_refund|standard_priority
+can you ask an agent if I could solve fucking payment issues?|payment_issue|medium_priority
+how could I view your fucking payment options?|check_payment_methods|medium_priority
+i do not know how to see the fucking withdrawal penalty|check_cancellation_fee|high_priority
+I can't find my fucking invoice, what do I have to do to see it?|check_invoices|standard_priority
+how do I inform of fucking problems paying?|payment_issue|medium_priority
+I would like to lodge a fucking complaint for a servioce|complaint|standard_priority
+the game was postponed, could I obtain a fucking refund, pleased?|get_refund|standard_priority
+can you ask an agent how I can check the fucking cancellation penalties, please?|check_cancellation_fee|medium_priority
+I can't find my fucking bills, can I check them?|check_invoices|standard_priority
+i havent got a fucking account, help me register|create_account|high_priority
+could u ask an agent if I could see a fucking inovice, please?|get_invoice|high_priority
+ask an agent where to check my fucking invoices, please|check_invoices|medium_priority
+i have no fucking user account, could u help me?|create_account|high_priority
+whats the fucking mail address to contact customer service?|contact_customer_service|medium_priority
+ive got no fucking online account, open one , please|create_account|high_priority
+please , ask an agent how to inform of a fucking problem payinh|payment_issue|medium_priority
+can i see some fucking invoices?|get_invoice|high_priority
+I'm discontent with the service, could you lodge a fucking complaint, please?|complaint|standard_priority
+please, do you mind asking an agent how I can change my fucking order?|change_order|standard_priority
+can u ask an agent how to inform of fucking problems paying, please?|payment_issue|high_priority
+ask an agent how i can inform of a fuckinng problem with my payment, please|payment_issue|high_priority
+i want to know what the fucking free phone number of customer support is|contact_customer_service|high_priority
+I want information, I need help speaking with fucking Client Service|contact_customer_service|standard_priority
+please, can u ask an agent if i can solve a fucking issue with my payment?|payment_issue|high_priority
+please, ask an agent if i can check my fucking invoice|check_invoices|high_priority
+I haven't got a fucking prfoile, I need help creating one, please|create_account|standard_priority
+I would like to speak with fucking someone|contact_human_agent|medium_priority
+I don't know anything about your fucking reimbursement policy and I'd like to know about it|check_refund_policy|standard_priority
+ask an agent what the fucking phone number of Customer Service is, please|contact_customer_service|medium_priority
+please, i want to know if I can request some fucking bills|get_invoice|high_priority
+ask an agent to change to another fucking user account, please|switch_account|medium_priority
+please, can u ask an agent where i can obtain a fucking reimbursement?|get_refund|high_priority
+can you tell me if i can register several fuckingaccounts with a single email, please?|create_account|high_priority
+i have no fucking shipping address, what should i do to set one up?|set_up_shipping_address|high_priority
+please, ask an agent where i could create a fucking profile|create_account|high_priority
+can you show me the fucking mail address of Client Service?|contact_customer_service|medium_priority
+i would like to see a fucking bill, can you show me some information?|get_invoice|high_priority
+I can't understand you, help me talk to a fucking human, please|contact_human_agent|standard_priority
+i'd like to get some fucking invoices, could you tell me how to do it?|get_invoice|high_priority
+can you ask an agent how to solve fucking problems paying?|payment_issue|medium_priority
+could u ask an agent how i could solve fucking payment issues, please?|payment_issue|high_priority
+I wanna know how I can obtain a fucking invoice, please|get_invoice|standard_priority
+please, ask an agent where i can write a fucking comment for a service|review|high_priority
+the show was postponed and I would like to obtain a fucking reimbursement, please|get_refund|standard_priority
+could you ask an agent how I could view their fucking money back guarantee, please?|check_refund_policy|medium_priority
+please, could you show me the fucking phone number of Customer Service?|contact_customer_service|medium_priority
+I need information, what can I do to send an email to fucking Client Service?|contact_customer_service|standard_priority
+i cant understand you, what should i do to contact a fucking human agent?|contact_human_agent|high_priority
+I want to modify my fucking order, can you tell me how I can do it?|change_order|standard_priority
+please, can u ask an agent what the fucking phone number of Customer Service is?|contact_customer_service|high_priority
+could you ask an agent how to see my fucking invoices?|check_invoices|standard_priority
+youre not helping, talk to fucking someone, pleased|contact_human_agent|medium_priority
+please, can u ask an agent to give me information about their fucking money back policy?|check_refund_policy|high_priority
+you aren't helping, how do I speak with a fucking human agent?|contact_human_agent|standard_priority
+can you ask an agent what my package of ym fucking shipment is, please ?|track_order|medium_priority
+could u ask an agent how i can inform of a fucking problem with my payment, please?|payment_issue|high_priority
+please, can u ask an agent where i could write a fucking comment?|review|high_priority
+help me send an email to fucking customer service|contact_customer_service|medium_priority
+help me talk to fucking customer service, please|contact_customer_service|medium_priority
+can you tell me if i can create more than one fucking user account with the same email?|create_account|high_priority
+could u check the fucking delivery options, please?|delivery_options|high_priority
+how do I solve a fucking problem paying?|payment_issue|standard_priority
+could you ask an agent if I could see some fucking invoices?|get_invoice|standard_priority
+ask an agent where to notify fucking issues paying, please|payment_issue|medium_priority
+can you ask an agent if I could see my fucking bill ?|check_invoices|standard_priority
+ask an agent to find information about the fucking cancellation fees, please|check_cancellation_fee|medium_priority
+can u show me the fucking email address of the Client Service, please?|contact_customer_service|high_priority
+i would like to request information about changing my fucking order|change_order|high_priority
+id like information and i wanna call fucking customer support|contact_customer_service|high_priority
+could u ask an agent where i could see my fucking invoice?|check_invoices|high_priority
+the fucking game was postponed and id like to request a reimbursement, please|get_refund|standard_priority
+could you ask an agent if I can obtain some fucking inovices?|get_invoice|medium_priority
+I do not like the service, how can I lodge a fucking complaint  ?|complaint|standard_priority
+could you tell me if I can create two fucking online accounts with the same email?|create_account|medium_priority
+I don't want my fucking profile, what do I have to do to delete it?|delete_account|standard_priority
+could u ask an agent how I can modify my fucking purchase?|change_order|high_priority
+please, could you tell me if i could modify my fucking purchase?|change_order|high_priority
+ask an agent to show me the fucking cancellation fees, please|check_cancellation_fee|medium_priority
+can you give me information about my fucking invoice?|check_invoices|standard_priority
+do you mind asking an agent how to get some fucking bills, please?|get_invoice|standard_priority
+please, could you tell me if i could register several fucking online accounts with the same email address?|create_account|high_priority
+could you ask an agent if I could report a fucking payment issue, please?|payment_issue|medium_priority
+ask an agent if I can place a fucking order|place_order|medium_priority
+could you ask an agent how to solve fucking problems with my payment, please?|payment_issue|medium_priority
+can you ask an agent how I can report fucking issues with my payment?|payment_issue|medium_priority
+can u find information about the fucking mail address of the Customer Support , please?|contact_customer_service|medium_priority
+I'd like to modify my fucking order, could you tell me where I can do it?|change_order|standard_priority
+can u ask an agent where i can inform of a fucking payment problem , please?|payment_issue|high_priority
+the concert was postponed and i want to geta fucking refund|get_refund|high_priority
+i want assistance to file a fucking consumer reclamation|complaint|high_priority
+please, ask an agent if i can solve a fucking problem with my payment|payment_issue|high_priority
+ask an agent  how to inform of a fucking problem paying|payment_issue|medium_priority
+I made a mistake, can i modify my fucking order?|change_order|high_priority
+u are not helping, what do i have to do to talk to a fucking person?|contact_human_agent|high_priority
+can u ask an agent if i could write a fucking review, please?|review|high_priority
+could you ask an agent where I can create a fucking online account?|create_account|medium_priority
+I haven't got a fucking user account, help me create one|create_account|standard_priority
+could you tell me if I could create two fucking accounts with the same email, please?|create_account|medium_priority
+could you tell me if i could create two fucking user accounts with a single email, please?|create_account|high_priority
+you arent helping and i want to speak with a fucking human agent, please|contact_human_agent|high_priority
+could u ask an agent how to track my fucking shipments, please?|track_order|high_priority
+do you mind asking an agent how to request some fucking invoices, please?|get_invoice|medium_priority
+ask an agent how to inform of fucking issues paying, please|payment_issue|medium_priority
+ask an agent how i can inform of fucking problems making a payment|payment_issue|high_priority
+do you mind asking an agent how to track my fucking order, plase?|track_order|standard_priority
+i cant understand you , contact fucking someone|contact_human_agent|high_priority
+my fucking account  was hacked, hepl me get it back|recover_password|high_priority
+the fucking concert was postponed, help me get a reimbursement|get_refund|standard_priority
+please, I made a mistake, could u ask an agent to modify my fucking order?|change_order|high_priority
+the fucking game was postponed, what should i do to obtain a refund?|get_refund|standard_priority
+i cant remember my fucking password and id like to retrieve it|recover_password|high_priority
+id like to get a fucking bill, can you tell me where to do it, please?|get_invoice|standard_priority
+please, could you ask an agent where I can report a fucking issue paying?|payment_issue|medium_priority
+please, speak with fucking client service|contact_customer_service|medium_priority
+please, could you ask an agent how to report a fucking issue making a payment?|payment_issue|medium_priority
+please, could u ask an agent where i could track my fucking purchase?|track_order|high_priority
+i have no fucking user account and id like to create one|create_account|high_priority
+can you ask an agent to inform of a fucking issue paying?|payment_issue|medium_priority
+i have no fucking account, what should i do?|create_account|high_priority
+please, could you ask an agent what the fucking email address of the Client Service?|contact_customer_service|medium_priority
+ask an agent how i can report fucking problems with my payment|payment_issue|high_priority
+ask an agent where to make a fucking complaint for a service, please|complaint|medium_priority
+please, can u show me the fucking email of the Customer Service?|contact_customer_service|high_priority
+where do I write a fucking opinion ?|review|medium_priority
+can you ask an agent how I can reset my fucking password?|recover_password|standard_priority
+how can I notify a fucking issue making a payment?|payment_issue|medium_priority
+can u show me the fucking email address of the Client Service ?|contact_customer_service|high_priority
+ive got no fucking online account, i need help registering|create_account|high_priority
+could u askan agent ohw to check their fucking money back guarantee?|check_refund_policy|high_priority
+my fucking profile was hacked, what should i do to get it back?|recover_password|high_priority
+please, could you ask an agent how to view the fucking cancellation penalties?|check_cancellation_fee|medium_priority
+do you mind asking an agent where I could get a fucking invoice, please?|get_invoice|standard_priority
+my fucking account's been hacked, how do I reocver it?|recover_password|standard_priority
+could u ask an agent how i can leave a fucking review, please?|review|high_priority
+i cat understand you, what should i do to speak with a fucking person?|contact_human_agent|high_priority
+ploease, can you ask an agnet how I can check my fucking orders?|track_order|standard_priority
+could u ask an agent how i can view their fucking payment options?|check_payment_methods|high_priority
+please, could you ask an agent if I can inform of a fucking payment issue?|payment_issue|medium_priority
+could u ask an agent what the fucking number to contact customer service is?|contact_customer_service|high_priority
+please, ask an agent where to file a fucking consumer complaint|complaint|medium_priority
+please, ask an agent where I could inform of a fucking payment problem|payment_issue|medium_priority
+please, can you ask an agent how to get a fucking reimbursement?|get_refund|standard_priority
+could you ask an agent to notify fucking issues paying?|payment_issue|medium_priority
+someone stole my fucking password, retrieve it, please|recover_password|medium_priority
+please, could u ask an agent if I could check my fucking package?|track_order|high_priority
+can you ask an agent where I could notify a fucking problem with  my payment, please?|payment_issue|medium_priority
+id like information about changing my fucking order|change_order|medium_priority
+where can i obtain a fucking reimbursement?|get_refund|standard_priority
+please, could you ask an agent to inform of fucking problems making a payment?|payment_issue|medium_priority
+could you ask an agent to delete my fucking account, please?|delete_account|medium_priority
+please, i wanna know if i could request some fucking bills|get_invoice|high_priority
+I want to know if I can register more than one fucking profile with a single email address, please|create_account|standard_priority
+could u ask an agent where i could obtain a fucking refund?|get_refund|high_priority
+please , ask an agent to show me information about their fucking money back policy|check_refund_policy|medium_priority
+i'd like to download some fucking bills , can you give me some information?, please|get_invoice|high_priority
+please, could u ask an agent to speak with fucking customer service?|contact_customer_service|medium_priority
+please, do you mind asking an agent if my fucking shipment is out for delivery?|track_order|standard_priority
+i cant understand you and i wanna speak with a fucking human agent, please|contact_human_agent|high_priority
+i dont want my fucking profile, how could i close it?|delete_account|high_priority
+please, ask an agent if I could notify fucking payment problems|payment_issue|medium_priority
+please, can u ask an agent if I could get a fucking invoice?|get_invoice|high_priority
+could u ask an agent how i could inform of a fucking payment problem?|payment_issue|high_priority
+could u ask an agent to give me information about the fucking delivery options, please?|delivery_options|medium_priority
+could u ask an agent where to track my fucking order?|track_order|high_priority
+could you tell me how to nkow where my fucking package is, please?|track_order|standard_priority
+can u ask an agent where i could make a fucking order?|place_order|high_priority
+the fucking game was cancelled, what do i have to do?|get_refund|high_priority
+I wsnt to know f I can create more than one fucking account with a single email|create_account|high_priority
+I bought something, what do I have to do to modify my fucking order?|change_order|standard_priority
+ask an agent what the fucking email address of client setvice is|contact_customer_service|medium_priority
+id like to see a fucking invoice, tell me where to do it, please|get_invoice|standard_priority
+id like a fucking refund, what do i have to do?|get_refund|high_priority
+please, can you ask an agent how I can report a fucking issue making a payment?|payment_issue|medium_priority
+I do not want my fucking user account, what do I have to do to remove it?|delete_account|standard_priority
+i want to know if i can create several fucking online accounts with the same email address|create_account|high_priority
+I don't understand you, can you contact fucking someone?|contact_human_agent|standard_priority
+can you tell me if i can create two fucking online accounts with the same email address?|create_account|high_priority
+how could i lodge a fucking complaint?|complaint|high_priority
+I do not have a fucking shipping address, how could I set it up?|set_up_shipping_address|standard_priority
+i want information about the fucking email address of the Customer Support|contact_customer_service|high_priority
+you're not hepling, could you contact a fucking human?|contact_human_agent|medium_priority
+where to inform of fucking issues paying|payment_issue|medium_priority
+can you show me the fucking mail address of Customer Support, please?|contact_customer_service|medium_priority
+please , could u ask an agent where to report fucking issues making a payment?|payment_issue|high_priority
+please, i wanna know if I could get some fucking bills|get_invoice|high_priority
+please, can you tell me if i can register several fucking accounts with the same email address?|create_account|high_priority
+i want information, can u call fucking customer support?|contact_customer_service|high_priority
+I want to recover my fucking password, how could I do it?|recover_password|standard_priority
+can you ask an agent where to make a fucking consumer complaint for a service, please?|complaint|medium_priority
+id like information and i want to talk to fucking client service, please|contact_customer_service|high_priority
+please, can u ask an agent where i could report fucking issues paying?|payment_issue|high_priority
+I do not understand you, how do I contact a fucking person?|contact_human_agent|standard_priority
+could u ask an agent where i can report a fucking issue making a payment?|payment_issue|high_priority
+i wanna request information about downloading a fucking bill|get_invoice|high_priority
+ask an agent how to report fucking payment problems|payment_issue|medium_priority
+someone stole my fucking password and i wanna recover it|recover_password|high_priority
+someone stole my fucking account password, reset it|recover_password|medium_priority
+could you ask an agent where to make changers to my fucking shipping address?|change_shipping_address|medium_priority
+ask an agent where I can see their fucking money back policy|check_refund_policy|medium_priority
+could you ask an agent to find information about the fucking ticket delivery options, please?|delivery_options|medium_priority
+I would like to notify a fucking problem paying|payment_issue|standard_priority
+please, can you ask an agent if I could reset my fucking account password?|recover_password|standard_priority
+could u ask an agent where i can notify a fucking problem making a payment, please?|payment_issue|high_priority
+can you tell me if I could register several fucking profiles with the same email?|create_account|medium_priority
+where to notify a fucking payment problem|payment_issue|medium_priority
+the show was postponed, could I request a fuckingreimbursement?|get_refund|standard_priority
+can u ask an agent how to create a fucking account?|create_account|high_priority
+can u ask an agent to file a fucking consumer complaint, please?|complaint|high_priority
+could you tell me if I can regitser more than one fucking account with the same email address?|create_account|standard_priority
+please, ask an ahent where to make a fucking complaint|complaint|medium_priority
+could you ask an agent about my fucking bill, please?|check_invoices|medium_priority
+ask an agent if I can leave a fucking review|review|medium_priority
+could you ask an agent where to inform of a fucking payment problem, please?|payment_issue|medium_priority
+ask an agent where I can see the fucking options for delivery, please|delivery_options|medium_priority
+where acn I report fucking payment issues?|payment_issue|medium_priority
+could u ask an agent how i could check my fucking invoice?|check_invoices|high_priority
+can you tell me if i could download a fucking bill?|get_invoice|high_priority
+i would like to get information about subscribing to the fucking newsletter|newsletter_subscription|high_priority
+please, ask an agent if i could change my fucking order|change_order|high_priority
+please, ask an agent for information about my fucking invoice|check_invoices|medium_priority
+I'd like to file a fucking consumer complaint for a service, what should I do?|complaint|standard_priority
+please, could you ask an agent if I could make changes to my fucking shipping address?|change_shipping_address|standard_priority
+can you ask an agent if I could download a fucking bill?|get_invoice|medium_priority
+could u ask an agent for information about obtaining some fucking bills?|get_invoice|medium_priority
+please, could you ask an agent to report fucking payment issues?|payment_issue|medium_priority
+the show was postponed, how could I obtain a fucking refund?|get_refund|standard_priority
+could youobtain a fucking bill, please?|get_invoice|medium_priority
+could u find information about the fucking delivery options?|delivery_options|high_priority
+could you ask an agent where to inform of fucking problems with my payment?|payment_issue|medium_priority
+the game was postponed and i wanna get a fucking reimbursement, please|get_refund|high_priority
+tell me if I can create more than one fucking user account with a single email address|create_account|medium_priority
+the fucking show was cancelled and i wanna get a refund, please|get_refund|high_priority
+please, can you ask an agent where I can inform of fucking payment problems?|payment_issue|medium_priority
+id like to report a fucking problem paying|payment_issue|medium_priority
+please, ask an agent where to view the fucking delivery options|delivery_options|medium_priority
+I'm discontent with the service, can you file a fucking complaint, please?|complaint|standard_priority
+i need help reporting fucking payment issues|payment_issue|medium_priority
+i wanna see the fucking email to contact Customer Service|contact_customer_service|high_priority
+can you ask an agent if I can solve fucking payment problems ?|payment_issue|medium_priority
+could you tell me how I can change my fucking order, please?|change_order|standard_priority
+I don't want my fucking account, how do I remove it?|delete_account|standard_priority
+ask an agent how i can inform of fucking payment problems|payment_issue|high_priority
+i want to view the fucking ticket delivery options, what should i do, please?|delivery_options|high_priority
+I cannot understand you and I would like to speak with fucking someone, please|contact_human_agent|standard_priority
+please, can you ask an agent how I could get a fucking refund?|get_refund|standard_priority
+how do I inform of fucking issues paying?|payment_issue|medium_priority
+please, can you tell me if i could register several fucking profiles with the same email address?|create_account|high_priority
+please, ask an agent how to retrieve my fucking password|recover_password|medium_priority
+I don't want my fucking online account, I need help deleting it, please|delete_account|standard_priority
+I'd like to notify fucking issues with my payment|payment_issue|standard_priority
+ask an agent if i could solve a fucking problem paying|payment_issue|high_priority
+I bought something, could i modify my fucking purchase, please?|change_order|high_priority
+please, could u show me information about the fucking delivery period for my ticket?|delivery_period|medium_priority
+I'd like to close my fucking online account, where can I d it?|delete_account|standard_priority
+please, could u ask an agent where to see the fucking cancellation penalties?|check_cancellation_fee|high_priority
+could u ask an agent how i could notify fucking issues with my payment, please?|payment_issue|high_priority
+please, i wanna get information about subscribing to the fucking newsletter|newsletter_subscription|high_priority
+can you ask an agent if I could retrieve my fucking password, please?|recover_password|medium_priority
+I can't change to a new fucking user account|switch_account|medium_priority
+please, ask an agent to create a fucking user account|create_account|medium_priority
+i want to know if i could create two fucking online accounts with a single email, please|create_account|high_priority
+please, ask an agent how to remove my fucking account|delete_account|medium_priority
+I forgot my fucking account password, what should I do?|recover_password|standard_priority
+please, ask an agent if i could delete my fucking profile|delete_account|high_priority
+I am interested in your fucking reimbursement policy, tell me about it|check_refund_policy|standard_priority
+ask an agent if i can see some fucking bills, please|get_invoice|high_priority
+can you tell me if I can register several fucking profiles with a single email address?|create_account|medium_priority
+please, could you ask an agent if I could solve a fucking issue with my payment?|payment_issue|medium_priority
+i changed my mind, i need help closing my fucking account, please|delete_account|high_priority
+ask an agent if I can solve a fucking payment problem, please|payment_issue|medium_priority
+i dont know what to do to talk to a fucking live agent|contact_human_agent|high_priority
+i dont understand you and id like to speak with a fucking human agent|contact_human_agent|high_priority
+ask an agent how i could make a fucking complaint for a service, please|complaint|high_priority
+help me track my fucking shipment, please|track_order|medium_priority
+please, can u ask an agent to notify a fucking problem making a payment?|payment_issue|high_priority
+please, can u ask an agent where to notify fucking problems with my payment?|payment_issue|high_priority
+could u ask an agent if i can close my fucking online account, please?|delete_account|high_priority
+please, could you tell me if I can create more than one fucking online account with an singleemail?|create_account|standard_priority
+i dont want my fucking user account, how can i remove it?|delete_account|high_priority
+please, could you ask an agent if I can solve fucking issues with my payment?|payment_issue|medium_priority
+id like to view the fucking options for delivery, what dp i have todo?|delivery_options|high_priority
+ask an agent how I could talk to fucking Client Service|contact_customer_service|medium_priority
+could you ask an agent where to view their fucking refund policy?|check_refund_policy|medium_priority
+I can't understand you, can I talk to a fucking human?|contact_human_agent|standard_priority
+i ordered something, what should i do to modify my fucking purchase?|change_order|high_priority
+i wanna know where I could see a fucking bill, please|get_invoice|high_priority
+please, ask an agent if I could see the fucking cancellation fees|check_cancellation_fee|medium_priority
+i have no fucking user account, what should i do to create one ?|create_account|high_priority
+you're not helping, what can I do to contact a fucking human agent?|contact_human_agent|standard_priority
+can u ask an agent how i could change to anothr fucking account ?|switch_account|high_priority
+where could I view the fucking ticket delivery options?|delivery_options|medium_priority
+I do not understand you and I would like to contact fucking someone, please|contact_human_agent|standard_priority
+i wanna see the fucking delivery period|delivery_period|high_priority
+please, can u ask an agent how to report a fucking problem paying?|payment_issue|high_priority
+i want to solve fucking problems paying|payment_issue|high_priority
+i'd like to download some fucking bills, could you tell me how to do it?|get_invoice|high_priority
+the show aws postponed and id like to get a fucking reimbursement|get_refund|standard_priority
+i would like to change my fucking purchase  , tell me where to do it|change_order|high_priority
+I'd like a fucking user account and I want to create one|create_account|standard_priority
+can you ask an agent to solve fucking problems making a payment?|payment_issue|medium_priority
+could you ask an agent for information about changing my fucking purchase, please?|change_order|medium_priority
+I can't understand you and I'd like to contact a fucking human agent|contact_human_agent|standard_priority
+i'd like to obtain a fucking invoice, tell me where to do it, please|get_invoice|high_priority
+ask an agent where to report a fucking payment issue, please|payment_issue|medium_priority
+please, tell me if I could create several fucking online accounts with the same email address|create_account|medium_priority
+what do I have to do to speak to a fucking human agent?|contact_human_agent|standard_priority
+the fucking concert was postponed and i wanna obtain a refund|get_refund|high_priority
+ask an agent to report a fucking issue making a payment|payment_issue|medium_priority
+can I inform of a fucking issue with my payment?|payment_issue|medium_priority
+I need help speaking with fucking Customer Support|contact_customer_service|medium_priority
+I can't find my fucking bills, can you view them?|check_invoices|standard_priority
+please, can you ask an agent if I could track my fucking order?|track_order|medium_priority
+could you ask an agent to change to another fucking online account, please?|switch_account|medium_priority
+I would like a fucking online acconut, what should I do?|create_account|standard_priority
+the concert was cancelled, how can I request a fucking refund?|get_refund|standard_priority
+i lost my fucking bill and i wanna see it, please|check_invoices|high_priority
+ive got no fucking user account, open one, please|create_account|high_priority
+i wanna know if i can create more than one fucking account with the same email address,  please|create_account|high_priority
+my fucking online account's been hacked and i wanna get it back, please|recover_password|high_priority
+could you ask an agent where I can request a fucking bill?|get_invoice|medium_priority
+could you ask an agent how I can notify fucking payment problems?|payment_issue|medium_priority
+tell me if I can check my fucking shipments|track_order|medium_priority
+ask an agent how to check my fucking bill, please|check_invoices|medium_priority
+i bought a product and I want to change my fucking order , please|change_order|high_priority
+could  you ask an agent if I can get a fucking invoice, please?|get_invoice|standard_priority
+ask an agent how to report fucking problems with my payment|payment_issue|medium_priority
+how can i remove my fucking online account?|delete_account|high_priority
+please , could u ask an agent how to see my fucking bill?|check_invoices|high_priority
+my fucking profile's been hacked, how do I get it back?|recover_password|standard_priority
+i wanna submit a fucking complaint, could u help me?|complaint|high_priority
+where do i notify a fucking problem with my payment?|payment_issue|high_priority
+please, could u ask an agent where i could check my fucking bills?|check_invoices|high_priority
+can you tell me the fucking free number of Client Service?|contact_customer_service|medium_priority
+I've got no fucking account, I need help opening one|create_account|standard_priority
+please, could you ask an agent if I could view my fucking invoices?|check_invoices|standard_priority
+please, ask an agent how to see the fucking cancellation penalties|check_cancellation_fee|medium_priority
+i purchased an item, can I modify my fucking purchase, please?|change_order|high_priority
+could I register more than one fucking online account with a single email address?|create_account|standard_priority
+ask an agent if i could remove my fucking user account|delete_account|high_priority
+I would like to make a fucking order, can you help me?|place_order|standard_priority
+please, can u ask an agent how i could notify fucking problems paying?|payment_issue|high_priority
+i need information, what can i do to speak with fucking client service?|contact_customer_service|high_priority
+please, could you ask an agent for information about the fucking status of my reimbursement?|track_refund|standard_priority
+how can i lodge a fucking complaint?|complaint|high_priority
+i cant understand you, how could i speak with an fucking person?|contact_human_agent|high_priority
+whats the fucking mail address of customer service?|contact_customer_service|medium_priority
+I need help getting a fucking refund|get_refund|standard_priority
+ask an agent how I can make an fucking complant|complaint|medium_priority
+please, can u ask an agent how I can change my fucking order?|change_order|high_priority
+i cant remember my fucking password, how can i recover it?|recover_password|high_priority
+please, can you ask an agent how to xwitch to another fucking user accoun?|switch_account|medium_priority
+please, could u ask an agent how i can leave a fucking review for a service?|review|high_priority
+could you show me information about my fucking bill, please?|check_invoices|medium_priority
+someone stole my fucking account password and I'd like to reset it|recover_password|standard_priority
+I would like to submit a fucking comment for a service, can you help me?|review|standard_priority
+the show was cancelled and I'd like to get a fucking reimbursement, please|get_refund|standard_priority
+please, could u ask an agent where i could delete my fucking account?|delete_account|high_priority
+I'd like a fucking online account, what can I do to open one?|create_account|standard_priority
+can you ask an agent how I can report a fucking problem with my payment, please?|payment_issue|medium_priority
+can you ask an agent how I can request a fucking reimbursement, please?|get_refund|standard_priority
+i changed my mind, i need help deleting my fucking online account, please|delete_account|high_priority
+can you ask an agent what I can get a fucking refund for, please?|get_refund|standard_priority
+ask an agent if there is a fucking newsletter I could receive, please|newsletter_subscription|medium_priority
+i wanna see some fucking bills, tell me how I can do it, please|get_invoice|high_priority
+could u ask an agent how i can leave a fucking comment for a service, please?|review|high_priority
+ask an agent how to solve fucking payment issues|payment_issue|medium_priority
+I am interested in your fucking refund policy and I want to know about it|check_refund_policy|standard_priority
+please, can u ask an agent what i can obtain a fucking refund for ?|get_refund|high_priority
+i need help informing of a fucking issue making a payment, please|payment_issue|high_priority
+the fucking show was postponed, how could I get a refund?|get_refund|standard_priority
+I would like to use my other fucking online account, can you switch them, lpease?|switch_account|standard_priority
+I can't remember my fucking pasword, can you help me?|recover_password|standard_priority
+id like to check my fucking packages, tell me how I can do it, please|track_order|standard_priority
+telll me if i can check my fucking shipment|track_order|high_priority
+I'd like to view the status of my fucking purchase, could you help me?|track_order|standard_priority
+i havent got a fucking profile, help me create one|create_account|high_priority
+i can't find my fucking invooice, could y view it, please?|check_invoices|high_priority
+id like to see the fucking mail address to contact Customer Support|contact_customer_service|medium_priority
+please, i want to know what the fucking email address of client service is|contact_customer_service|high_priority
+can u ask an agent how to know where my fucking package is?|track_order|high_priority
+where could i delete my fucking profile?|delete_account|high_priority
+someone stole my fucking account password and id like to reset it, please|recover_password|standard_priority
+please, could you tell me if I can create two fucking accounts with a single email?|create_account|medium_priority
+how do i see the fucking cancellation fees?|check_cancellation_fee|high_priority
+i have a question, help me speak with fucking customer support|contact_customer_service|high_priority
+could u ask an agent how o inform of a fucking payment problem?|payment_issue|high_priority
+i dont want my fucking online account, could u cancel it?|delete_account|high_priority
+can you find information about the fucking mail to contact Customer Service, please?|contact_customer_service|medium_priority
+I ordered something, what should i od to change my fucking purchase?|change_order|high_priority
+do you mind asking an agent how I can get some fucking bills, please?|get_invoice|standard_priority
+the show was cancelled and I'd like to get a fucking refund, please|get_refund|standard_priority
+ask an agent hoe i can notify a fucking problem with my payment|payment_issue|high_priority
+can u send an email to fucking customer support?|contact_customer_service|high_priority
+can you tell me if i can register several fucking profiles with a single email, please?|create_account|high_priority
+i wanna track my fucking order, could oyu tell me how yo do it, please?|track_order|high_priority
+I am not happy with the service, I need help making a fucking complaint, please|complaint|standard_priority
+can you ask an agent how to close my fucking account?|delete_account|medium_priority
+I want to file a fucking coment for a service, could you help me?|review|standard_priority
+please, i want to know how I can check my fucking order|track_order|high_priority
+please, can you ask an agent if there is a fucking newsletter i can subscribe to?|newsletter_subscription|standard_priority
+please, could  u ask an agent to solve a fucking problem making a payment?|payment_issue|high_priority
+could u ask an agent what the fucking mail address of the Customer Service, please?|contact_customer_service|medium_priority
+id like to see your fuckingv money back policy, what do i have to do?|check_refund_policy|high_priority
+can u give me information about your fucking money back guarantee?|check_refund_policy|high_priority
+I would like a fucking user account and I would like to create one, please|create_account|standard_priority
+could u ask an agent where i could inform of fucking payment issues?|payment_issue|high_priority
+id like to submit a fucking comment for a service, what do i have to do?|review|high_priority
+I want to obtain some fucking invoices, could you tell me how I can do it?|get_invoice|standard_priority
+could you tell me the fucking number to contact Customer Support, please?|contact_customer_service|medium_priority
+could u ask an agent to report fucking issues making a payment, please?|payment_issue|high_priority
+i want information and id like to send a email to fucking customerservice|contact_customer_service|high_priority
+ca you ask an agent to solve a fucking payment problem ?|payment_issue|medium_priority
+please, i want to know how I can modify my fucking order|change_order|high_priority
+can u ask  an agent how i could solve an fucking issue paying, please?|payment_issue|high_priority
+ask an agent where to notify fucking payment problems|payment_issue|medium_priority
+please, could you tell me if I could create more than one fucking account with the same email address?|create_account|standard_priority
+please, ask an agent how i could notify fucking issues making a payment|payment_issue|high_priority
+I am discontent with the service, how could I file a fucking complaint?|complaint|standard_priority
+ask an agent where to open a fucking online account, please|create_account|medium_priority
+I'd like to create a fucking profile, what should I do?|create_account|standard_priority
+I would like to see the fucking email to contact Customer Support, please|contact_customer_service|standard_priority
+could you ask an agent how I could subscribe to the fucking newsletter, please?|newsletter_subscription|standard_priority
+I'd like to track my fucking package, can you tell me how to do it?|track_order|standard_priority
+where can I notify a fucking issue paying?|payment_issue|medium_priority
+my fucking online account's been hacked and I'd like to get it back|recover_password|standard_priority
+I'd like a fucking online account, how could I open one?|create_account|standard_priority
+could you contact fucking Customer Service ?|contact_customer_service|medium_priority
+wherecan i inform of fucking problems making an payment?|payment_issue|high_priority
+please, could you ask an agent how I colud talk to fucking Customer Support?|contact_customer_service|medium_priority
+i didn't receive my fucking invoices, can i check them?|check_invoices|high_priority
+can u ask an agent how i could set up my fucking shipping address, please?|set_up_shipping_address|high_priority
+ask an agent how I can report a fucking issue with my payment, please|payment_issue|medium_priority
+could u ask an agent how i could report fucking problems paying?|payment_issue|high_priority
+I would like to solve fucking problems making a payment|payment_issue|medium_priority
+i want to see my fucking invoice, what do i have to do?|check_invoices|high_priority
+please, could u ask an agent where to notify a fucking issue making a payment?|payment_issue|high_priority
+could u ask an agent where to notify fucking issues making a payment?|payment_issue|high_priority
+please, can you ask an agent if I can view their fucking reimbursement policy?|check_refund_policy|standard_priority
+I want to make a fucking complaint, could you help me?|complaint|standard_priority
+I've got no fucking account, what can I do to register?|create_account|standard_priority
+can u ask an agent how to notify a fucking issue paying?|payment_issue|high_priority
+I need to report fucking registration issues|registration_problems|medium_priority
+please, i want to know if i could create two fucking online accounts with the same email address|create_account|high_priority
+please, could you ask an agent how I could see my fucking bill?|check_invoices|standard_priority
+I would like information, could I send an email to fucking Customer Support?|contact_customer_service|medium_priority
+I don't understand you and I'd like to talk to fucking someone|contact_human_agent|standard_priority
+please, could you ask an agent how I could view their fucking payment options?|check_payment_methods|medium_priority
+ask an agent how to view my fucking bill|check_invoices|medium_priority
+I want to inform of a fucking issue making a payment|payment_issue|medium_priority
+please, i would like to get information about downloading a fucking bill|get_invoice|high_priority
+can you ask an agent to show me the fucking status of my reimbursement, please?|track_refund|standard_priority
+please, could u ask an agent to solve a fucking issue with my payment?|payment_issue|medium_priority
+could I remove my fucking profile?|delete_account|medium_priority
+please, ask an agent where I can remove my fucking online account|delete_account|medium_priority
+can you ask an agent to provide information about my fucking bills?|check_invoices|medium_priority
+id like to check your fucking payment options, what can i do?|check_payment_methods|high_priority
+where to track my fucking reimbursement|track_refund|medium_priority
+ask an agent if I could retrieve my fucking account password, please|recover_password|medium_priority
+please, ask an agent where to notify a fucking payment problem|payment_issue|medium_priority
+I do not have a fucking account and I would like to create one, please|create_account|standard_priority
+I made a mistake and i wanna change my fucking purchase, please|change_order|high_priority
+please, could u ask an agent what my delivery of my fucking order iks?|track_order|high_priority
+could u ask an agent if i can notify a fucking issue paying, please?|payment_issue|high_priority
+ask an agent if my fucking orders are out for delivery|track_order|medium_priority
+could you ask an agent if I can notify a fucking payment problem, please?|payment_issue|medium_priority
+you aren't helping and I want to speak with a fucking human agent|contact_human_agent|standard_priority
+please, can u ask an agent to report fucking payment problems?|payment_issue|high_priority
+my fucking online account has been hacked, can I get it back?|recover_password|standard_priority
+I don't undersatnd you, could I speak with fucking sopmeone?|contact_human_agent|standard_priority
+I would like to write a fucking review|review|standard_priority
+ask an agent if I could inform of a fucking issue making a payment, please|payment_issue|medium_priority
+my fucking user account was hacked, could you get it back, please?|recover_password|standard_priority
+could you ask an agent how I can inform of fucking issues paying, please?|payment_issue|medium_priority
+i can't find my fucking invoices, can u show them, please?|check_invoices|high_priority
+could you ask an agent how I could request some fucking bills, please?|get_invoice|medium_priority
+I want to view the fucking ticket delivery options, what do I have to do, please?|delivery_options|standard_priority
+Id like to download some fucking invoices, could you tell me how to do it, please?|get_invoice|standard_priority
+please, ask an agent to remove my fucking account|delete_account|medium_priority
+please, can you ask an agent if I could lodge a fucking consumer complaint?|complaint|standard_priority
+the game was postponed, could i obtain a fucking reimbursement, please?|get_refund|standard_priority
+ask an agent to switch to another fucking account|switch_account|medium_priority
+could u ask an agent if i could see their fucking money back policy, please?|check_refund_policy|high_priority
+please, can you tell me if there is a free phone number to contact fucking customer support?|contact_customer_service|medium_priority
+you aren't helping, how do I contact fucking someone?|contact_human_agent|standard_priority
+can you ask an agent to check their fucking payment options, please?|check_payment_methods|medium_priority
+I lost my fucking password, could you reset it?|recover_password|standard_priority
+I'd like to see the fucking status of my refund, can you help me, please?|track_refund|standard_priority
+can u ask an agent if i could inform of fucking payment issues ?|payment_issue|high_priority
+ask an agent how i can reset my fucking account password|recover_password|high_priority
+id like information and i wanna contact fucking customer service, please|contact_customer_service|high_priority
+can u ask an agent to notify a fucking problem with my payment ?|payment_issue|high_priority
+ask an agent were I can notify a fucking payment problem, please|payment_issue|medium_priority
+how could I leave a fucking review?|review|medium_priority
+Id like to make a modification in my fucking order, please|change_order|standard_priority
+could u ask an agent how i could inform of fucking problems making a payment, please?|payment_issue|high_priority
+I needinformation about the fucking mail address to contact Client Service, please|contact_customer_service|medium_priority
+I don't have a fucking profile and I'd like to create one|create_account|standard_priority
+I lost my fucking invoices and I want to check them, please|check_invoices|standard_priority
+please, ask an agent if I could report a fucking issue making a payment|payment_issue|medium_priority
+can u sak an agent where i can notify fucking issues making a payment?|payment_issue|high_priority
+can u ask an agnet if my fucking orders are on their way?|track_order|high_priority
+I do not have a fucking profile|create_account|standard_priority
+I'd like to see the status of my fucking purchase, could you help me?|track_order|standard_priority
+ask an agent how i could speak with fucking client service, please|contact_customer_service|high_priority
+can you ask an agent how I could solve fucking payment problems?|payment_issue|medium_priority
+the game was cancelled and I'd like to obtain a fucking reimbursement, please|get_refund|standard_priority
+can u ask an agent how  could see the status of my fucking purchase, please?|track_order|high_priority
+i purchased an item, i ned help changing my fucking order|change_order|high_priority
+the fucking concert was postponed, help me obtain a reimbursement, please|get_refund|standard_priority
+please, ask an agent where I could report a fucking issue paying|payment_issue|medium_priority
+ask an agent where I could report fucking problems with my payment, please|payment_issue|medium_priority
+can you tell me if I can create more than one fucking account with a single email, please?|create_account|standard_priority
+i  want information, how do i talk to fucking customer support?|contact_customer_service|high_priority
+please, can u ask an agent where i can view my fucking bills?|check_invoices|high_priority
+I changed my mind and I'd like to close my fucking user account|delete_account|standard_priority
+please, could you ask an agent how I could view my fucking bill?|check_invoices|medium_priority
+could you tell me what the fucking free phone number to contact Client Service is?|contact_customer_service|medium_priority
+i want to use my other fucking online account, can i switch them ?|switch_account|high_priority
+you're not helping, could I talk to a fucking human?|contact_human_agent|standard_priority
+id like to lodge a fucking review, what canh i do?|review|high_priority
+please, could you ask an agent how I could report a fucking paymet issue?|payment_issue|medium_priority
+could you ask an agent to receive the fucking newsletter, please?|newsletter_subscription|medium_priority
+i dont want my fucking account, could u delete it?|delete_account|high_priority
+i want to check the fucking status of my refund, can u help me?|track_refund|high_priority
+what do I have to do to list the fucking payment methods?|check_payment_methods|standard_priority
+need to contact fucking customer assistance|contact_customer_service|medium_priority
+ask an agent if I could check the fucking status of my reimbursement, please|track_refund|standard_priority
+please, do you mind asking an agent for information about requesting a fucking invoice?|get_invoice|medium_priority
+i need information, can u talk to fucking client service?|contact_customer_service|high_priority
+I would like to see the fucking delivery period for my ticket|delivery_period|standard_priority
+what are your fucking payment options?|check_payment_methods|medium_priority
+ask an agent if i could leave a fucking review, please|review|high_priority
+can you ask an agent if I could notify a fucking problem paying?|payment_issue|medium_priority
+can u ask an agent to inform of a fucking problem making a payment?|payment_issue|high_priority
+i'd like to get some fucking bills, tell me how to do it, please|get_invoice|high_priority
+could u ask an agent how to solve fucking payment issues, please?|payment_issue|high_priority
+could you ask an agent how I can make a fucking complaint, please?|complaint|standard_priority
+please, ask an agent if icould inform of a fucking payment issue|payment_issue|medium_priority
+can u ask an agent if I could subscribe to the fucking newsletter, please?|newsletter_subscription|high_priority
+can you talk to fucking Client Service, please?|contact_customer_service|medium_priority
+help me notify a fucking problem making a payment, please|payment_issue|medium_priority
+can u give me information about the fucking email address of the Customer Service, please?|contact_customer_service|medium_priority
+please, could u ask an agent how i can write a fucking review for a service?|review|high_priority
+I don't want my fucking account, can you cancel it, please?|delete_account|standard_priority
+i wanna know if i can create several fucking user accounts with a single email address|create_account|high_priority
+im not happy with the service, what can i do to submit a fucking consumer complaint?|complaint|high_priority
+i wanna know what the fucking email address to contact customer service is|contact_customer_service|high_priority
+ask an agent where i can close my fucking user account, please|delete_account|high_priority
+can you ask an agent where I could notify fucking problems paying, please?|payment_issue|medium_priority
+please, could u ask an agent what your fucking payment options are?|check_payment_methods|high_priority
+can u ask an agent where i could view the fucking delivery options, please?|delivery_options|high_priority
+could u ask an agent what the fucking phone number of client service is?|contact_customer_service|high_priority
+can you ask an agent how to know where my fucking shipment is?|track_order|standard_priority
+ask an agent if I could inform of fucking problems making a payment, please|payment_issue|medium_priority
+i wanna receive the fucking newsletter, can you tell me where I can do it, please?|newsletter_subscription|high_priority
+id like an fucking refund , how do i get one?|get_refund|high_priority
+could u show me the fucking mail address of the Customer Support, please?|contact_customer_service|medium_priority
+please, could u ask an agent where i can inform of a fucking problem paying?|payment_issue|high_priority
+I want to know how to get some fucking bills, please|get_invoice|standard_priority
+i lost my fucking bill and i wanna view it|check_invoices|high_priority
+I do not understand you, can I speak with a fucking person, please?|contact_human_agent|standard_priority
+tell me if I could create two fucking accounts with a single email address|create_account|medium_priority
+could you tell me if there is a free phone number to contact fucking Customer Service, please?|contact_customer_service|medium_priority
+please, i wanna ask for information about changing my fucking purchase|change_order|high_priority
+assistance to speak to a fucking agent|contact_human_agent|medium_priority
+can u ask an agent where i could report fucking issues making a payment, please?|payment_issue|high_priority
+could u ask an agent where to change my fucking order?|change_order|high_priority
+i dont understand you and i wanna speak with a fucking human, please|contact_human_agent|high_priority
+the show was cancelled and I'd like to obain a fucking reimbursement, please|get_refund|standard_priority
+I don't want my fucking account, how could I close it?|delete_account|standard_priority
+where do i file a fucking complaint against ur company|complaint|high_priority
+help me update my fucking profile, please|edit_account|medium_priority
+i have no fucking user account, can u open one, please?|create_account|high_priority
+i wanna open a fucking online account, could u help me?|create_account|high_priority
+where to check the fucking ticket delivery options|delivery_options|medium_priority
+I have no fucking account, can you open one?|create_account|standard_priority
+I didn't receive my fucking invoices and I want to view them, please|check_invoices|standard_priority
+id like information, what should i do to call fucking customer support?|contact_customer_service|high_priority
+please, could you tell me if i can create two fucking online accounts with the same email?|create_account|high_priority
+can u ask an agent if fucking customer service is available?|contact_customer_service|high_priority
+ask an agent if i can report a fucking problem with my payment, please|payment_issue|high_priority
+please, can u ask an agent to find information about the fucking options for delivery?|delivery_options|medium_priority
+could u ask an agent where I can obtain a fucking invoice, please?|get_invoice|medium_priority
+i want to submit a fucking comment for a service, what should i do?|review|high_priority
+how to inform of a fuckingproblem paying|payment_issue|medium_priority
+I want to use my other fucking profile, could you switch them?|switch_account|standard_priority
+I wanna change my fucking purchase, could you tell me where I can do it?|change_order|standard_priority
+can u ask an agent where i could cancel my fucking account, please?|delete_account|high_priority
+i bought a product, can i change my fucking purchase, please?|change_order|high_priority
+I do not understand you, can you speak with fucking someone?|contact_human_agent|standard_priority
+could u ask an agent if i can check my fucking bills?|check_invoices|high_priority
+i wanna get a fucking invoice, could you tell me how to do it?|get_invoice|high_priority
+please, could you ask an agent where I can view thir fucking refund policy?|check_refund_policy|medium_priority
+id like information, can u callfucking customer support, please?|contact_customer_service|high_priority
+can u ask an agent where  i could check my fucking bills?|check_invoices|high_priority
+ask an agent if i can  leave a fucking review|review|high_priority
+please, could you ask an agent how I can know where my fucking package is?|track_order|standard_priority
+you're not helping, how could I contact a fucking person?|contact_human_agent|standard_priority
+i have a question, how could i talk to fucking customer service?|contact_customer_service|high_priority
+youre not helping and id like to talk to a fucking human agent, lease|contact_human_agent|medium_priority
+please, could you ask an agent if I can notify a fucking poblem with my payment?|payment_issue|standard_priority
+ask an agent how to make changes ot the information on my fucking profile|edit_account|medium_priority
+i wanna view the fucking options for delivery, what can i do?|delivery_options|high_priority
+could you tell me what the fucking mail to contact Client Service is, please?|contact_customer_service|medium_priority
+could you ask an agent where to see the fucking cancellation penalties, please?|check_cancellation_fee|medium_priority
+where can i report fucking payment issues?|payment_issue|high_priority
+I can't understand you, could you contact fucking someone?|contact_human_agent|standard_priority
+i want to know how to change my fucking order, please|change_order|high_priority
+id like to see some fucking bills, can you give me some information?|get_invoice|standard_priority
+please, can you ask an agent how I could notify a fucking issue with my payment?|payment_issue|standard_priority
+could u show me the fucking free number of customer support?|contact_customer_service|high_priority
+do you mind asking an agent if i can check my fucking order, please?|track_order|high_priority
+someone stole my fucking account password, could you retrieve it, please?|recover_password|standard_priority
+i do not know how to make a fucking consumer reclamation|complaint|high_priority
+ask an agent how I could see the fucking cancellation penalty, please|check_cancellation_fee|medium_priority
+I lost my fucking account password, can you help me?|recover_password|standard_priority
+i wanna know if i could register two fucking online accounts with a single email , please|create_account|high_priority
+please, couldyou ask an agent to switch to another fucking profile?|switch_account|medium_priority
+could you ask an agent how to open an fucking user account?|create_account|medium_priority
+can i check my fucking orders?|track_order|high_priority
+could u ask an agent how to inform of a fucking issue paying?|payment_issue|high_priority
+someone stole my fucking password and id  like to recover it|recover_password|medium_priority
+ask an agent where I could report a fucking issue making a payment|payment_issue|medium_priority
+could u ask an agent how to obtain a fucking invoice?|get_invoice|high_priority
+can you ask an agent to check my fucking packages, please?|track_order|medium_priority
+i lost my fucking bills and id like to see them|check_invoices|high_priority
+please, could you ask an agent where I could inform of fucking issues with my payment?|payment_issue|medium_priority
+i do not know what to do to update the fucking user info|edit_account|high_priority
+i wanna check my fucking shipment, can you tell me how to do it?|track_order|high_priority
+i dont like the service and i wanna file a fucking consumer complaint|complaint|high_priority
+please, i want to know if there is any fucking person available|contact_human_agent|high_priority
+wanna update the fucking details on my profile  help me|edit_account|medium_priority
+ask an agent where to report fucking issues with my payment, please|payment_issue|medium_priority
+please, could you ask an agent how I can switch to another fucking online account?|switch_account|medium_priority
+could u ask an agent if i can report fucking problems paying, please?|payment_issue|high_priority
+I have no fucking account, I need help registering, please|create_account|standard_priority
+ask an agent how I could solve a fucking problem making a payment, please|payment_issue|medium_priority
+the fucking event was cancelled, what can I do to obtain a reimbursement?|get_refund|standard_priority
+ask an agent where to see their fucking payment options, please|check_payment_methods|medium_priority
+I sould like to make a fucking opinion, what do I have to do?|review|standard_priority
+id like a fucking reimbursement, help me obtain one, please|get_refund|standard_priority
+can i use my new fucking account|switch_account|high_priority
+please, can you ask an agent how to know where my fucking order is?|track_order|medium_priority
+i want to track my fucking reimbursement, can u help me, please?|track_refund|high_priority
+ask an agent if i can see the fucking status of my refund|track_refund|high_priority
+I need information about your fucking payment options, please|check_payment_methods|medium_priority
+please, ask an agent if I could check my fucking packages|track_order|medium_priority
+how do i view the status of my fucking order?|track_order|high_priority
+please, ask an agent how i could inform of an fucking problem paying|payment_issue|high_priority
+my fucking profile's been hacked, i need help recovering it|recover_password|high_priority
+please, could u ask an agent how to inform of a fucking issue making a payment?|payment_issue|medium_priority
+I ordered something and id like to change my fucking purchase|change_order|medium_priority
+i want to know if i can register several fucking online accounts with a single email address, please|create_account|high_priority
+I cannot understand you, I need help talking to fucking someone, please|contact_human_agent|standard_priority
+please, can you ask an agent if I could close my fucking account?|delete_account|medium_priority
+I need help solving fucking problems paying, please|payment_issue|medium_priority
+how can i lodge a fucking consumer complaint?|complaint|high_priority
+ask an agent how i could inform of a fucking issuepaying, please|payment_issue|high_priority
+could u ask an agent where my fucking packages are, please?|track_order|high_priority
+my fucking online account was hacked and i wanna recover it, please|recover_password|high_priority
+please, can u ask an agent if i can inform of fucking problems with my payment?|payment_issue|high_priority
+I've got no fucking online account, could you create one?|create_account|standard_priority
+ask an agent where I could report a fucking problem making a payment, please|payment_issue|medium_priority
+i wanna modify my fucking purchase, can you tell me how to do it?|change_order|high_priority
+can you ask an agent where I can inform of fucking issues paying, please?|payment_issue|medium_priority
+i want to solve a fucking payment issue|payment_issue|high_priority
+could you ask an agent how I could know where my fucking packages are, please?|track_order|standard_priority
+ask an agent how I can solve fucking issues with my payment, please|payment_issue|medium_priority
+I need help solving a fucking issue with my payment|payment_issue|medium_priority
+could I view the fucking cancellatyion fee?|check_cancellation_fee|medium_priority
+please, could you ask an agent where I could view the status of my fucking purchase?|track_order|medium_priority
+i would like to download a fucking bill, can you give me some information?|get_invoice|high_priority
+my fucking user account's been hacked, and I need help getting it back|recover_password|standard_priority
+could u ask an agent where i can inform of fucking issues making a payment?|payment_issue|high_priority
+my fucking account was hacked, what can i do?|recover_password|high_priority
+can u ask an agent where to close my fucking user account?|delete_account|high_priority
+could u ask an agent where i could obtain a fucking refund, please?|get_refund|high_priority
+please, ask an agent if I can notify a fucking issue making a payment|payment_issue|medium_priority
+could you ask an agent how to inform of a fucking issue with my payment?|payment_issue|medium_priority
+I don't have a fucking user account|create_account|standard_priority
+please, can u ask an agent if i can recover my fucking account password?|recover_password|high_priority
+I changed my mind, can you cancel my fucking online account, please?|delete_account|standard_priority
+the fucking show was postponed and I'd like to obtain a reimbursement, please|get_refund|standard_priority
+I am interested in their fucking money back guarantee, ask an agent about it, please|check_refund_policy|standard_priority
+i'd like to obtain a fucking invoice, tell me where I can do it|get_invoice|high_priority
+please, i want to know how to know where my fucking packages are|track_order|high_priority
+ask an agent where I can see the fucking options for ticket delivery, please|delivery_options|medium_priority
+tell me if I can create several fucking user accounts with the same email|create_account|medium_priority
+ask an agent if I could report a fucking issue with my payment, please|payment_issue|medium_priority
+can you ask an agent where I can notify an fucking problem making a payment, please?|payment_issue|medium_priority
+i want to remove my fucking account|delete_account|high_priority
+my fucking user account has been hacked, and I need help getting it back|recover_password|standard_priority
+need help speaking to fucking customer assistance|contact_customer_service|medium_priority
+i want to know if i could register two fucking accounts with the same email, please|create_account|high_priority
+could u ask an agent if i can see the tsatus of my fucking purchase?|track_order|high_priority
+please, can you ask an agent how I could contact fucking Customer Service?|contact_customer_service|medium_priority
+where could i inform of fucking payment issues?|payment_issue|high_priority
+I want to use my other fucking account, could you change them?|switch_account|standard_priority
+can you ask an agent how I can report fucking payment problems?|payment_issue|medium_priority
+I have a question and I'd like to send an email to fucking Client Service|contact_customer_service|standard_priority
+i need assistance making a fucking consumer reclamation|complaint|medium_priority
+could u ask an agent if i could check my fucking invoice?|check_invoices|high_priority
+can you ask an agent where I could see their fucking reimbursement policy?|check_refund_policy|standard_priority
+can you ask an agent what the fucking email address of Customer Service is, please?|contact_customer_service|medium_priority
+I can't find my fucking invoices and I would like to view them|check_invoices|standard_priority
+could you ask an agent were I could check the fucking status of my refund, please?|track_refund|standard_priority
+please, ask an agent what I can obtain a fucking reimbursement for|get_refund|medium_priority
+can you find information about the fucking email address of the Customer Service?|contact_customer_service|medium_priority
+can you show me the fucking free phone number of Customer Support?|contact_customer_service|medium_priority
+ask an agent if i can inform of fucking problems with my payment, please|payment_issue|high_priority
+can you tell me if i can create two fucking online accounts with a single email address, please?|create_account|high_priority
+please, could u ask an agent how i can notify a fucking payment issue?|payment_issue|high_priority
+tell me where to modify my fucking order|change_order|medium_priority
+how could I create a fucking user account?|create_account|medium_priority
+i wanna know if i can create several fucking online accounts with a single email, please|create_account|high_priority
+could you ask an agent how I can inform of a fucking issue with my payment, please?|payment_issue|medium_priority
+I'd like to check my fucking shipments, could you tell me how to do it?|track_order|standard_priority
+could you ask an agent what the fucking free number of Customer Support is?|contact_customer_service|medium_priority
+can you ask an agent where I could inform of a fucking problem paying?|payment_issue|medium_priority
+please, ask an agent if i could check the fucking ticket delivery options|delivery_options|high_priority
+please, could u ask an agent if there's a fucking newsletter to stay up-to-date?|newsletter_subscription|high_priority
+please, could u ask an agent where to request a fucking reimbursement?|get_refund|medium_priority
+can you ask an agent if I could check my fucking order, please?|track_order|medium_priority
+please, ask an agent to inform of fucking issues with my payment|payment_issue|medium_priority
+can u ask an agent for information about the fucking delivery period for my tickets?|delivery_period|high_priority
+ask an agent how i could report fucking problems with my payment, please|payment_issue|high_priority
+please, can u ask an agent if i can report fucking payment issues?|payment_issue|high_priority
+i need information about modifying my fucking order|change_order|high_priority
+please, can u ask an agent if i can notify a fucking payment problem?|payment_issue|high_priority
+could you ask an agent how I can check my fucking orders?|track_order|standard_priority
+could you ask an agent if i can track my fucking order?|track_order|high_priority
+please, can u ask an agent how to notify a fucking problem with my payment?|payment_issue|high_priority
+i dont understand you, help me talk to fucking someone, please|contact_human_agent|high_priority
+could u ask an agent for information about the fucking delivery period?|delivery_period|high_priority
+please, could you ask an agent ohw I could inform of fucking problems paying?|payment_issue|medium_priority
+ask an agent if I could view the fucking status of my refund|track_refund|medium_priority
+I can't understand you and I want to contact fucking someone|contact_human_agent|standard_priority
+please, can u ask an agent wheee i can cancel my fucking user account ?|delete_account|high_priority
+I need help checking your fucking payment methods, please|check_payment_methods|medium_priority
+I want to request information about downloading somefucking bills|get_invoice|medium_priority
+please, can u ask an agent if i can change my fucking purchase?|change_order|high_priority
+id like a fucking refund, how could i obtain one?|get_refund|high_priority
+ask an agent to notify a fucking problem with my payment|payment_issue|medium_priority
+please, could you tell me if i could register several fucking accounts with a single email?|create_account|high_priority
+i want to modify my fucking purchase, tell me where I can do it, please|change_order|high_priority
+could you show me the fucking mail address of Customer Service, please?|contact_customer_service|medium_priority
+i need information about the fucking email address of the Client Service|contact_customer_service|high_priority
+can u get some fucking invoices?|get_invoice|high_priority
+please, could u ask an agent where to notify fucking problems making a payment?|payment_issue|high_priority
+need help deleting the fucking user account|delete_account|medium_priority
+i want to know if i could register several fucking accounts with a single email, please|create_account|high_priority
+how could I update my fucking profile?|edit_account|medium_priority
+ask an agent where to view the fucking cancellation fee, please|check_cancellation_fee|medium_priority
+ask an agent if i could notify a fucking problem with my payment|payment_issue|high_priority
+could you ask an agent to send me a fucking invoice?|get_invoice|standard_priority
+u are not helping, what should i do to contact fucking someone?|contact_human_agent|high_priority
+can u ask an agent how i could view the status of my fucking purchase?|track_order|high_priority
+can u ask an agent where i could file a fucking complaint?|complaint|high_priority
+I do not like the service, could I make a fucking complaint?|complaint|standard_priority
+I lost my fucking bills, what should I do to view them?|check_invoices|standard_priority
+can u ask an agent how to contact fucking customer service?|contact_customer_service|high_priority
+I do not have a fucking online account, can you help me?|create_account|standard_priority
+I'd like information about the fucking mail of the Customer Service|contact_customer_service|medium_priority
+I ordered a product and i want to change my fucking order, please|change_order|high_priority
+please, can u ask an agent where to lodge a fucking complaint for a service?|complaint|high_priority
+I want information, I need help contacting fucking Client Service|contact_customer_service|standard_priority
+help me notify a fucking payment problem, please|payment_issue|medium_priority
+can u contact a fucking person?|contact_human_agent|high_priority
+ask an agent where to check my fucking bill|check_invoices|medium_priority
+can you ask an agent if i could request some fucking bills, please?|get_invoice|high_priority
+i want to see some fucking bills, can you tell me how I can do it?|get_invoice|high_priority
+id like to file a fucking consumer complaint, what do i have to do?|complaint|high_priority
+ask an agent what the fucking email address to contact Customr Support is, please|contact_customer_service|medium_priority
+I've got no fucking user account, what do I have to do to register?|create_account|standard_priority
+id like information, could u send an email to fucking customer service?|contact_customer_service|high_priority
+I'd like information, help me call fucking Client Service|contact_customer_service|medium_priority
+ask an agent if i could track my fucking packages|track_order|high_priority
+please , I want to know if I can create two fucking online accounts eith a single email address|create_account|medium_priority
+I do not have a fucking account, what do I have to do to register?|create_account|standard_priority
+the event was postponed, could i request a fucking refund?|get_refund|high_priority
+my fucking profile has been hacked, what should i do to get it back?|recover_password|high_priority
+could you ask an agent how to request a fucking invoice, please?|get_invoice|medium_priority
+I can' remember my fucking password and I would like to reset it|recover_password|standard_priority
+i wanna see some fucking bills, can you givge me some information?|get_invoice|high_priority
+could you tell me what the fucking email address to contact Customer Service is, please?|contact_customer_service|medium_priority
+please, could you ask an agent where to inform of a fucking issue paying?|payment_issue|medium_priority
+I'm discontent with the service, could you file a fucking complaint, please?|complaint|standard_priority
+i wanna see my fucking bills|check_invoices|high_priority
+can you ask an agent where I can notify a fucking problem paying, please?|payment_issue|medium_priority
+please, i want to know if i can create several fucking online accounts witha single email address|create_account|high_priority
+id like to check my fucking package, could you tell me  how t do it?|track_order|standard_priority
+I would like to modify my fucking order, tell me where I can do it, please|change_order|standard_priority
+ask an agent if i can inform of fucking issues making a payment|payment_issue|high_priority
+could you ask an agent if I could solve a fucking problrm paying, please?|payment_issue|medium_priority
+ask an agent where I can notify fucking payment issues|payment_issue|medium_priority
+can I reset my fucking password?|recover_password|medium_priority
+i need help notifying fucking issues with my payment|payment_issue|high_priority
+can u ask an agent were i could report fucking problems making a payment, please?|payment_issue|high_priority
+ask an agent if i could view the fucking status of my refund|track_refund|high_priority
+please, i want to know how I can download a fucking bill|get_invoice|high_priority
+I'm discontent with the service, I need help making a fucking complaint|complaint|standard_priority
+i wanna see a fucking invoice, could you tell me where I can do it?|get_invoice|high_priority
+where do I see the fucking cancellation fee?|check_cancellation_fee|standard_priority
+I do not know what to do to report a fucking sign-up error|registration_problems|standard_priority
+please, can you ask an agent if I could inform of a fucking issue making a payment?|payment_issue|medium_priority
+please, could you ask an agent if I could get a fucking bill?|get_invoice|standard_priority
+my fucking account's been hacked, what can I do to recover it?|recover_password|standard_priority
+can you tell me what the fucking phone number to contact Client Service is, please?|contact_customer_service|medium_priority
+id like information and i want to send an email to fucking customer support, please|contact_customer_service|high_priority
+can you ask an agent how I can view my fucking invoice, please?|check_invoices|medium_priority
+I can't remember my fucking password, can you retrieve it?|recover_password|standard_priority
+I want to track my fucking shipments, can you tell me how I can do it?|track_order|standard_priority
+i wanna see the fucking ticket delivery options|delivery_options|high_priority
+how can i view your fucking payment methods?|check_payment_methods|high_priority
+can you tell me how I can receive the fucking newsletter?|newsletter_subscription|medium_priority
+ask an agent if i could obtain a fucking bill|get_invoice|high_priority
+please, can u ask an agent what the status of my fucking order is ?|track_order|high_priority
+how to speak with a fucking human agent|contact_human_agent|medium_priority
+could u ask an agent how i could recover my fucking account password, please?|recover_password|high_priority
+can u ask an agent how to notify a fucking payment problem, please?|payment_issue|high_priority
+my fucking user account's been hacked and I would like to recover it|recover_password|standard_priority
+ask an agent if I could report a fucking problem paiyng, please|payment_issue|medium_priority
+whats the fucking free number of customer support?|contact_customer_service|medium_priority
+the fucking concert was postponed, what should i do?|get_refund|high_priority
+i wana lodge a fucking opinion, whta should i do?|review|high_priority
+can you ask an agent when I will get a fucking reimbursement, please?|get_refund|standard_priority
+could you ask an agent where I could remove my fucking account, please?|delete_account|medium_priority
+i dont want my fucking user account, can u close it, please?|delete_account|high_priority
+could u ask an agent how to inform of a fucking payment problem, please?|payment_issue|medium_priority
+please, can u ask an agent how to solve fucking payment issues?|payment_issue|high_priority
+ask an agent how i could inform of a fucking issue paying|payment_issue|high_priority
+please, ask an agent if I can inform of a fucking problem paying|payment_issue|medium_priority
+i want information, help me call fucking customer support|contact_customer_service|high_priority
+I ordered an item and Id like to modify my fucking order, please|change_order|standard_priority
+could u ask an agent to notify a fucking payment issue?|payment_issue|high_priority
+i dont want my fucking account, how can i delete it?|delete_account|high_priority
+ask an agent how I can write a fucking opinion, please|review|medium_priority
+can u ask an agent to cancel a fucking purchase, please?|cancel_order|high_priority
+my fuckingonline account's been hacked, can u help me?|recover_password|high_priority
+i want information, what do i have to do to speak with fucking customer service?|contact_customer_service|high_priority
+could you ask an agent if I could track my fucking orders?|track_order|medium_priority
+please, can you ask an agent if i can recevie the fucking newsletter?|newsletter_subscription|high_priority
+I need assistance seeing the fucking early exit fee|check_cancellation_fee|medium_priority
+could u ask an agent where i can check my fucking invoices, please?|check_invoices|high_priority
+can you ask an agent where I can check the status of my fucking order, please?|track_order|medium_priority
+ask an agent where to file a fucking complaint|complaint|medium_priority
+I wanna know how I could download a fucking invoice, please|get_invoice|standard_priority
+can you ask an agent hwere I can check my fucking bills, please?|check_invoices|medium_priority
+can you ask an agent if I could remove my fucking user account?|delete_account|medium_priority
+please, can you ask an agent how to inform of fucking issues paying?|payment_issue|medium_priority
+the fucking event was postponed and id like to obtain a refund, please|get_refund|standard_priority
+please, could you ask an agent if I could see the fucking cancellation fee?|check_cancellation_fee|standard_priority
+please, can you ask an agent if I could solve a fucking issue paying?|payment_issue|medium_priority
+please, ask an agent if i can check the status of my fucking purchase|track_order|high_priority
+could you ask an agent if I could inform of a fucking issue with my payment?|payment_issue|medium_priority
+can you ask an agent ohw to get a fucking invoice, please?|get_invoice|medium_priority
+ask an agent how i could solve a fucking issue making a payment, please|payment_issue|high_priority
+please, show me the fucking free number to contact Customer Support|contact_customer_service|medium_priority
+could you ask an agent if I can delete my fucking online account, please?|delete_account|standard_priority
+can you tell me if i can register two fucking user accounts with a single email address?|create_account|high_priority
+please, can you ask an agent how to know where my fucking shipments are?|track_order|standard_priority
+I have no fucking account, how do I create one?|create_account|standard_priority
+can you give me information about the fucking mail address to contact Client Service, please?|contact_customer_service|medium_priority
+I want to request an fucking refund|get_refund|standard_priority
+can u ask an agent if I could check my fucking order?|track_order|high_priority
+I would like a fucking profile, what should I do?|create_account|standard_priority
+the game was cancelled, get a fucking refund|get_refund|standard_priority
+could u ask an agent where i can see their fucking payment methods, please?|check_payment_methods|high_priority
+I want to download a fucking bill, can you show me some information?|get_invoice|standard_priority
+ask an agent where i can lodge a fucking complaint for a service, please|complaint|high_priority
+could you tell me the fucking no to contact client service, please?|contact_customer_service|medium_priority
+can u show me the fucking free phone number to contact customer service, please?|contact_customer_service|high_priority
+i want to remove my fucking profile, how can i do it?|delete_account|high_priority
+ask an agent to notify fucking issues with my payment|payment_issue|medium_priority
+could you tell me the fucking email to contact Customer Service, please?|contact_customer_service|medium_priority
+can u ask an agent how to modify my fucking profile?|edit_account|high_priority
+I do not have a fucking user account, what do I have to do to create one?|create_account|standard_priority
+ask an agent how I can edit my fucking profile, please|edit_account|medium_priority
+could you ask an agent how I can report fucking issues with my payment?|payment_issue|standard_priority
+could u ask an agent what my order of my fucking package is, please?|track_order|high_priority
+please, can you ask an agent if I could lodge a fucking complaint for a service?|complaint|standard_priority
+ask an agent how I could inform of a fucking problem making a payment, please|payment_issue|medium_priority
+can you tell me if I could create more than one fucking online account with the same email, please?|create_account|standard_priority
+can you ask an agent where I could inform of a fucking payment issue?|payment_issue|medium_priority
+ask an agent where I can cancel my fucking user account, please|delete_account|medium_priority
+could u ask an agent how i could write a fucking comment for a service, please?|review|high_priority
+i want to know if I could download a fucking invoice, please|get_invoice|high_priority
+I need a fucking refund, what do I have to do to obtain one?|get_refund|standard_priority
+please, could u ask an agent where to notify a fucking issue with my payment?|payment_issue|high_priority
+could u ask an agent how to write a fucking opinion for a service?|review|high_priority
+please , could you ask an agent how to report a fucking problem making a payment?|payment_issue|medium_priority
+could you ask an agent how I can notify a fucking issue making a payment, please?|payment_issue|medium_priority
+id like a fucking account, what should i do to open one?|create_account|high_priority
+I'd like information and I would like to talk to fucking Client Service|contact_customer_service|standard_priority
+I want to know if I could create two fucking user accounts with a single email address|create_account|standard_priority
+could you tell me if i could register several fucking profiles with the saem email, please?|create_account|high_priority
+could u ask an agent for information about modifying my fucking order?|change_order|high_priority
+ask an agent what my packages of my fucking shipment is|track_order|medium_priority
+can you ask an agent how I could get a fucking refund?|get_refund|standard_priority
+ask an agent about the fucking cancellation penalty, please|check_cancellation_fee|medium_priority
+i want a fucking reimbursement, help me request one|get_refund|high_priority
+please, ask an agent where to view my fucking invoice|check_invoices|medium_priority
+could u ask an agent how i could report a fucking problem paying?|payment_issue|high_priority
+can you ask an agent where I could view their fucking refund policy?|check_refund_policy|standard_priority
+information about the fucking mail address of the Client Service|contact_customer_service|medium_priority
+I forgot my fucking account password and I would like to recover it, please|recover_password|standard_priority
+ask an agent how to see their fucking refund poliyc, please|check_refund_policy|medium_priority
+I need help to open a fucking account|create_account|medium_priority
+I didn't receive my fucking invoices, could I view them?|check_invoices|standard_priority
+id like information, how can i contact fucking client service?|contact_customer_service|high_priority

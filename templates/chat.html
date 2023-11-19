@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chat Bot</title>
+    <title>Чат-бот</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -35,7 +35,7 @@
             margin-bottom: 20px;
             padding: 15px;
             border-radius: 10px;
-            background-color: #aee6e6; /* Light blue */
+            background-color: #aee6e6; /* Светло-голубой */
             text-align: right;
             float: right;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -45,7 +45,7 @@
             margin-bottom: 20px;
             padding: 15px;
             border-radius: 10px;
-            background-color: #ffd699; /* Light orange */
+            background-color: #ffd699; /* Светло-оранжевый */
             text-align: left;
             float: left;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -95,10 +95,10 @@
 </head>
 <body>
     <div id="chat-container">
-        <h1>Ask Me!</h1>
+        <h1>Спросите меня!</h1>
         <div id="chat"></div>
-        <input type="text" id="user-input" placeholder="Type your question..." onkeydown="if (event.key === 'Enter') askQuestion()">
-        <button onclick="askQuestion()">Ask</button>
+        <input type="text" id="user-input" placeholder="Введите ваш вопрос..." onkeydown="if (event.key === 'Enter') askQuestion()">
+        <button onclick="askQuestion()">Спросить</button>
     </div>
 
     <script>
@@ -106,10 +106,10 @@
             var userQuestion = document.getElementById("user-input").value;
             document.getElementById("chat").innerHTML +=
                 "<div class='message-container'>" +
-                "<div class='user-message'><img class='user-icon' src='/static/user.png' alt='User Icon'><p>" + userQuestion + "</p></div>" +
+                "<div class='user-message'><img class='user-icon' src='/static/user.png' alt='Иконка пользователя'><p>" + userQuestion + "</p></div>" +
                 "</div>";
 
-            // Send the question to the Flask server
+            // Отправляем вопрос на сервер Flask
             fetch('/ask', {
                 method: 'POST',
                 headers: {
@@ -122,11 +122,11 @@
                 var answer = data.answer;
                 document.getElementById("chat").innerHTML +=
                     "<div class='message-container'>" +
-                    "<div class='bot-message'><img class='bot-icon' src='/static/bot.png' alt='Bot Icon'><p>" + answer + "</p></div>" +
+                    "<div class='bot-message'><img class='bot-icon' src='/static/bot.png' alt='Иконка бота'><p>" + answer + "</p></div>" +
                     "</div>";
             });
 
-            // Clear input after asking
+            // Очищаем поле ввода после задания вопроса
             document.getElementById("user-input").value = "";
         }
     </script>

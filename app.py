@@ -9,8 +9,8 @@ app = Flask(__name__)
 
 # Connect to MongoDB
 client = MongoClient("mongodb://localhost:27017")
-db = client["bot_db"]
-collection = db["bot_data"]
+db = client["user_requests_db"]
+collection = db["user_requests_data"]
 
 vectorizer = TfidfVectorizer()
 
@@ -18,28 +18,33 @@ vectorizer = TfidfVectorizer()
 # Function to retrieve content from MongoDB
 def get_content_from_mongodb():
     documents = collection.find()
-    content_list = [doc["content"] for doc in documents]
+    content_list = [{"content": doc.get("content"), "competent": doc.get("competent"), "priority": doc.get("priority")}
+                    for doc in documents]
     return content_list
 
 
 # TF-IDF Vectorization
 def vectorize_text(text_list):
-    vectors = vectorizer.fit_transform(text_list)
+    vectors = vectorizer.fit_transform([doc["content"] for doc in text_list])
     return vectors
 
 
 # Function to get the most similar document based on user query
-def get_most_similar_document(query, vectors, text_list):
+def get_most_similar_document(query, vectors, content_list):
     query_vector = vectorizer.transform([query])
     similarity_scores = cosine_similarity(query_vector, vectors)
     most_similar_index = similarity_scores.argmax()
 
     # Additional logging
-    predicted_answer = text_list[most_similar_index]
+    predicted_answer = content_list[most_similar_index]["content"]
+    competent = content_list[most_similar_index]["competent"]
+    priority = content_list[most_similar_index]["priority"]
     confidence_score = np.max(similarity_scores)
 
     print(f"User Query: {query}")
     print(f"Predicted Answer: {predicted_answer}")
+    print(f"Competent: {competent}")
+    print(f"Priority: {priority}")
     print(f"Confidence Score: {confidence_score}")
 
     return predicted_answer
